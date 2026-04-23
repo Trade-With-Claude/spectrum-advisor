@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.wav
+*.aiff
+*.flac
+*.mp3
+references/
+!references/.gitkeep
+.idea/
+.vscode/
+*.log
